@@ -25,7 +25,6 @@ aPackageInfo = [
 		"README.md"
 	],
 	:ringfolderfiles = 	[
-		"ringlibs/weblib/ringapp/wkhtmltopdf.exe"
 	],
 	:windowsfiles = 	[
 
@@ -37,7 +36,7 @@ aPackageInfo = [
 
 	],
 	:windowsringfolderfiles = 	[
-
+		"ringlibs/weblib/ringapp/wkhtmltopdf.exe"
 	],
 	:linuxringfolderfiles = 	[
 
